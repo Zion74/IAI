@@ -91,7 +91,7 @@ c.NotebookApp.notebook_dir = 'D:\\workspace\\jupyter'
 `
 参考链接 https://jupyter-notebook.readthedocs.io/en/stable/public_server.html
 注：如无jupyter_notebook_config.py，打开Anaconda Prompt输jupyter notebook
-–generate-config，自动生成一个.jupyter的文件夹，路径为 C:\Users\[username]\.jupyter
+–-generate-config，自动生成一个.jupyter的文件夹，路径为 C:\Users\[username]\.jupyter
 2. 可使用命令行 jupyter notebook --notebook-dir=D:\workspace\jupyter
 如图所示  ![设置路径](https://github.com/bettermorn/IAICourse/blob/main/img/%E8%AE%BE%E7%BD%AEjupyternotebook%E4%BD%8D%E7%BD%AE%E5%91%BD%E4%BB%A4.png)
 图片链接为https://github.com/bettermorn/IAICourse/blob/main/img/%E8%AE%BE%E7%BD%AEjupyternotebook%E4%BD%8D%E7%BD%AE%E5%91%BD%E4%BB%A4.png
